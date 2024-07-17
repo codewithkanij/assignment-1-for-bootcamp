@@ -1,0 +1,259 @@
+body {
+    /* font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; */
+    background: #060606e7;
+    margin: 0;
+    color: aliceblue;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 30px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+nav a {
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: x-large;
+    text-decoration: none;
+    color: aliceblue;
+}
+
+nav button {
+    font-size: x-large;
+    font-weight: 700;
+    color: aliceblue;
+    background-color: tomato;
+    padding: 10px;
+    border: none;
+}
+
+p {
+    color: gray;
+}
+
+.banner-section {
+    padding-left: 20px;
+    padding-top: 100px;
+    display: flex;
+
+}
+
+.my-detail {
+    width: 60%;
+    font-size: x-large;
+}
+
+.my-pic {
+    /* padding-left: 100px; */
+    width: 10px;
+    height: 40px;
+}
+
+.tag {
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    font-size: 14px;
+}
+
+.tagg {
+    margin-right: 20px;
+}
+
+.click {
+    display: flex;
+    background-color: rgba(128, 128, 128, 0.427);
+    border-radius: 100px;
+    padding-left: 6px;
+    padding-right: 6px;
+    width: 60%;
+}
+
+.btn {
+    border-radius: 50px;
+    border: none;
+    padding: 20px 40px;
+    margin: 5px;
+    font-size: large;
+    font-weight: bolder;
+    background-color: tomato;
+    color: aliceblue;
+}
+
+.social-icon {
+    display: flex;
+}
+
+.fb {
+    height: 35px;
+    width: 40px;
+    margin: 10px;
+}
+
+.about-section {
+    display: flex;
+    padding-top: 60px;
+    padding-left: 30px;
+    font-size: x-large;
+}
+
+.about {
+    width: 50%;
+}
+
+
+.yr {
+    width: 40%;
+    text-align: right;
+}
+
+.experince {
+    display: flex;
+    padding-top: 80px;
+    padding-left: 30px;
+    font-size: larger;
+    background-color: rgba(152, 105, 105, 0.358);
+    padding-bottom: 90px;
+}
+
+.rooling {
+    padding-right: 20px;
+}
+
+.half-width {
+    width: 50%;
+}
+
+.duration {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.award-section {
+    padding-top: 100px;
+}
+
+.award {
+    text-align: center;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+.flex {
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    padding: 40px;
+}
+
+.width {
+    width: 70%;
+}
+
+.second {
+    margin-top: 30px;
+}
+
+.contact-section {
+    background-color: rgba(152, 105, 105, 0.358);
+    padding: 80px;
+    margin-top: 30px;
+}
+
+.contact-title {
+    text-align: center;
+}
+
+.cnt {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+hr {
+    width: 300px;
+}
+
+.mssg-hr {
+    width: 900px;
+}
+
+.submit-btn {
+    font-size: x-large;
+    font-weight: 500;
+    color: aliceblue;
+    background-color: tomato;
+    padding: 10px;
+    border: none;
+}
+
+.footer {
+    text-align: center;
+    background-color: black;
+    margin-top: 60px;
+    padding-top: 80px;
+    padding-bottom: 50px;
+
+}
+
+.footer-manu {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+.icons {
+    padding-left: 350px;
+    text-align: center;
+}
+
+.logo {
+    font-size: 50px;
+    color: tomato;
+}
+
+footer {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+span {
+    color: tomato;
+}
+
+.port-nav {
+    text-align: center;
+}
+
+.port-nav>button {
+    font-size: x-large;
+    font-weight: 500;
+    color: aliceblue;
+    background-color: tomato;
+    padding: 10px;
+    margin-right: 15px;
+    /* border: none; */
+}
+
+.portfolio {
+    margin-top: 100px;
+}
+
+.ss {
+    margin-top: 60px;
+    display: flex;
+    gap: 30px;
+}
+
+.ss img {
+    width: 500px;
+}
+
+.project-description {
+    margin-top: 50px;
+}
